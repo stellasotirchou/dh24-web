@@ -1,0 +1,50 @@
+#aueb-title{
+    font-family:"Jersey 20";
+    font-size: 4rem;
+    color :blue ; 
+    font-weight: 400;
+}
+
+
+body{
+    
+        background-color:rgb(228, 154, 222) 
+    
+}
+
+
+
+.aueb-text,.aueb-text2{ 
+    background-color: rgb(40, 139, 148);
+}
+
+.courses>li {
+    color:blue;
+    list-style: none;
+}
+
+.dh > span {
+    background-color:aquamarine
+}
+
+input[type="text"]{
+    background-color: blueviolet; 
+}
+
+input[type="button"] {
+    background-color: chocolate;
+}
+
+table{
+    border-collapse: collapse;
+    width:500px ;
+}
+
+table,th,td{
+    
+    border: 1px solid black 
+}
+
+td{
+    text-align: center;
+}
